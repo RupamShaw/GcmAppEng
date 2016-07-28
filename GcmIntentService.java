@@ -15,7 +15,7 @@ import java.util.logging.Logger;
  * Created by Dell on 25/07/2016.
  */
 public class GcmIntentService extends IntentService {
-
+//gr8
     public GcmIntentService() {
         super("GcmIntentService");
     }
